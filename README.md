@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-<!--
-**GlebYoutuber/GlebYoutuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('glebyoutuber', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00bfa5',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
